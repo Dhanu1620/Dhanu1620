@@ -42,17 +42,6 @@
 
 ---
 
-### 💼 Featured Projects
-
-🔹 [**Autism Therapy Outcome Prediction**](https://github.com/Dhanu1620/Autism_Therapy_Prediction)  
-Predictive model using machine learning for autism therapy outcomes. Included real-time monitoring and personalized treatment suggestions.
-
-🔹 [**Sales Insights Dashboard**](https://github.com/Dhanu1620/Sales_Insight_Dashboard)  
-Power BI dashboard for analyzing 148K+ sales records with DAX-driven KPIs and dynamic slicers.
-
-🔹[**HR ANALYSIS**](https://github.com/Dhanu1620/HR_ANALYTICS_DASHBOARD)
-perspective of important HR KPIs, facilitating strategic planning and data-driven decision-making
----
 
 ### 📈 GitHub Stats
 
@@ -63,6 +52,16 @@ perspective of important HR KPIs, facilitating strategic planning and data-drive
 
 ---
 
+
+### 💼 Featured Projects
+
+🔹 [**Autism Therapy Outcome Prediction**](https://github.com/Dhanu1620/Autism_Therapy_Prediction)  
+Predictive model using machine learning for autism therapy outcomes. Included real-time monitoring and personalized treatment suggestions.
+
+🔹 [**Sales Insights Dashboard**](https://github.com/Dhanu1620/Sales_Insight_Dashboard)  
+Power BI dashboard for analyzing 148K+ sales records with DAX-driven KPIs and dynamic slicers.
+
+---
 > _"Empowering decisions with data, one insight at a time."_
 
 
