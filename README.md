@@ -139,7 +139,7 @@ at <strong>Panimalar Institute of Technology</strong> with a CGPA of <strong>8.8
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Dhanu1620&label=Profile%20Views&color=00ffff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Dhanu1620&label=PROFILE%20VIEWS&color=000000&labelColor=00FFFF&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 
