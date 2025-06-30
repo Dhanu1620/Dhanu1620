@@ -129,9 +129,19 @@ at <strong>Panimalar Institute of Technology</strong> with a CGPA of <strong>8.8
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Dhanu1620&show_icons=true&theme=radical" alt="Dhanu's GitHub stats" />
 </p>
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanu1620&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanu1620&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dhanu1620&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+</p>
+
 
 ---
 
