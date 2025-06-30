@@ -128,6 +128,8 @@ at <strong>Panimalar Institute of Technology</strong> with a CGPA of <strong>8.8
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Dhanu1620&show_icons=true&theme=radical" alt="Dhanu's GitHub stats" />
+</p>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanu1620&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
