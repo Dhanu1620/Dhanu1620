@@ -10,7 +10,7 @@ at <strong>Panimalar Institute of Technology</strong> with a CGPA of <strong>8.8
 
 ### 🔍 About Me
 
-<p align="center">
+<p align="left">
 I'm passionate about bridging the gap between data and decision-making. <br>
 From building predictive models to designing interactive dashboards, <br>
 I enjoy turning data into actionable business insights.
@@ -20,7 +20,7 @@ I enjoy turning data into actionable business insights.
 
 ### 🧠 Core Skills
 
-<p align="center">
+<p align="left">
 📌 <strong>Data Analysis</strong> & EDA • 🤖 Machine Learning Models • 📈 Business Case Simulations • 📊 Data Visualization  
 </p>
 
@@ -55,23 +55,23 @@ I enjoy turning data into actionable business insights.
 ---
 
 ## 🛠️ Tools & Technologies:
- **IDEs** 
+**IDEs**:
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
-**BI/Analytics**
+**BI/Analytics**:
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-**Documentation** 
+**Documentation**:
 ![MS Word](https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
-**Version Control**  
+**Version Control**:  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**Project Management**
+**Project Management**:
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 
