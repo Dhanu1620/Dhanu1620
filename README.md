@@ -124,7 +124,17 @@ at <strong>Panimalar Institute of Technology</strong> with a CGPA of <strong>8.8
 
 ---
 
-*“Turning data into decisions. One insight at a time.”*
+### 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Dhanu1620&show_icons=true&theme=radical" alt="Dhanu's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanu1620&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+
+**Turning data into decisions. One insight at a time.**
 > _"Empowering decisions with data, one insight at a time."_
 
 
