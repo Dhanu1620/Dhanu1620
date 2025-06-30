@@ -10,12 +10,10 @@ at <strong>Panimalar Institute of Technology</strong> with a CGPA of <strong>8.8
 
 ### 🔍 About Me
 
-<p align="left">
-- I'm passionate about bridging the gap between data and decision-making. <br>
-- From building predictive models to designing interactive dashboards, <br>
-- I enjoy turning data into actionable business insights.
-- Currently pursuing Automation Testing ang Story telling
-</p>
+- 📚 Currently upskilling in **Automation Testing** and **Data Storytelling**.
+- 💡 I'm passionate about bridging the gap between **Data** and **Decision-Making**.  
+- 🤖 From building predictive models to **Designing Interactive Dashboards**.  
+- 📊 I enjoy turning complex data into **actionable business insights**.  
 
 ---
 
