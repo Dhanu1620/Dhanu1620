@@ -1,67 +1,82 @@
-<h1 align="center">Hi 👋, I'm Dhanushree S</h1>
-<h3 align="center">Aspiring Business Analyst | Data Enthusiast | Power BI Developer</h3>
+# 👋 Hi, I'm Dhanushree S
 
-<p align="center">
-🌱 Currently enhancing my proficiency in Business Analytics, and  Storytelling to deliver meaningful business insights.<br>
-🎯 Looking for job opportunities to showcase my skills in Business Analytics<br>
-📫 Reach me at: <a href="mailto:dhanusridhar16@gmail.com">dhanusridhar16@gmail.com</a>
-</p>
+🎯 **Aspiring Business Analyst** | 📊 Data Enthusiast | 💻 Technology Explorer
 
----
+I'm a B.Tech Computer Science and Business Systems student at Panimalar Institute of Technology (CGPA: 8.85), 
 
-### 🧑‍💻 Languages
+with hands-on experience in **data analysis**, **machine learning**, **business case simulations**, and **data visualization**. 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+My goal is to bridge the gap between data and strategic business decisions.
 
 ---
 
-### 🛠️ Tools
+## 💼 Projects
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
----
-
-### 📚 Concepts
-
-- Software Development Life Cycle (SDLC)
-- Agile and Scrum Methodologies
-- Object-Oriented Programming (OOPs)
+### 🔹 [Autism Therapy Outcome Prediction](https://github.com/Dhanu1620/Autism_Therapy_Prediction)
+**Domain**: Healthcare | **Tech Stack**: Python, Jupyter, Power BI  
+> Developed a machine learning-based therapy efficacy model for Autism Spectrum Disorder (ASD).
+> This project utilized behavioral, cognitive, and demographic data to personalize therapy recommendations.
+> Enabled adaptive treatment planning and dynamic model updates with an interactive Power BI dashboard.
 
 ---
 
-### 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dhanushree-s-6ba943248/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-website-green?style=for-the-badge&logo=google-chrome)](https://dhanusridhar16.wixsite.com/dhanu04)
-
----
-
-
-### 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Dhanu1620&show_icons=true&theme=radical" alt="Dhanu's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanu1620&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+### 🔹 [Customer Churn Prediction](https://github.com/Dhanu1620/Customer-Churn-Prediction)
+**Domain**: Telecom | **Tech Stack**: Python, Pandas, Scikit-learn, Seaborn  
+> Built a predictive model using supervised machine learning algorithms (Random Forest, XGBoost) to identify customers likely to churn.
+> Performed data cleaning, feature engineering, and exploratory data analysis to uncover churn patterns and improve customer retention strategy.
 
 ---
 
-
-### 💼 Featured Projects
-
-🔹 [**Autism Therapy Outcome Prediction**](https://github.com/Dhanu1620/Autism_Therapy_Prediction)  
-Predictive model using machine learning for autism therapy outcomes. Included real-time monitoring and personalized treatment suggestions.
-
-🔹 [**Sales Insights Dashboard**](https://github.com/Dhanu1620/Sales_Insight_Dashboard)  
-Power BI dashboard for analyzing 148K+ sales records with DAX-driven KPIs and dynamic slicers.
+### 🔹 [Online Retail Sales Analysis](https://github.com/Dhanu1620/Online-Retail-Sales-Analysis)
+ **Domain**: Retail Analytics | **Tech Stack**: Power BI, DAX, PowerQuery  
+> Analyzed 2011 online retail data as part of a Tata Group Business Case Simulation.
+> Created KPIs, revenue trends, and customer segmentation dashboards using Power BI.
+> Delivered executive-level insights through interactive visual storytelling for real-world business decision-making.
 
 ---
-> _"Empowering decisions with data, one insight at a time."_
+
+## 👩‍💻 I Code In:
+- Python 🐍  
+- Java ☕ 
+- SQL 🛢️  
+- Power BI 📊 (DAX, M language)
+
+---
+
+## 🛠️ Tools & Technologies:
+- IDEs: Visual Studio Code, Jupyter Notebook, Eclipse  
+- BI/Analytics: Power BI, Tableau, MS Excel  
+- Documentation: MS Word  
+- Version Control: GitHub  
+- Project Management: Jira
+
+---
+
+## 🧠 Concepts:
+- Software Development Life Cycle (SDLC)  
+- Agile and Scrum Methodologies  
+- Object-Oriented Programming (OOPs)  
+- Data Cleaning, Wrangling, and EDA  
+- Business Communication & Presentation
+
+---
+
+## 📜 Certifications:
+- Python for Data Science – NPTEL  
+- Career Essentials in Data Analysis – Microsoft x LinkedIn  
+- Business Analysis Basics  
+- Data Analysis Using Python  
+- Data Visualization using Power BI  
+
+---
+
+## 🔗 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dhanushree-s-6ba943248/)  
+🌐 [Portfolio Website](https://dhanusridhar16.wixsite.com/dhanu04)  
+📧 dhanusridhar16@gmail.com
+
+---
+
+⭐ *“Turning data into decisions. One insight at a time.”*
 
 
