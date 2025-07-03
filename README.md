@@ -145,8 +145,6 @@ at <strong>Panimalar Institute of Technology</strong> with a CGPA of <strong>8.8
 
 ---
 
-
-**Turning data into decisions. One insight at a time.**
 > _"Empowering decisions with data, one insight at a time."_
 
 
