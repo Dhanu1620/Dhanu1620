@@ -30,7 +30,7 @@ at <strong>Panimalar Institute of Technology</strong> with a CGPA of <strong>8.8
 
 📊 **On a mission to turn data into impactful decisions!**
 
-- 🚀 Learning: Automation Testing and  Data Storytelling  
+- 🚀 Learning: Automation Testing and Data Storytelling  
 - 🎯 Seeking: Real-world opportunities to apply analytical thinking  
 - 📫 Email: [dhanusridhar16@gmail.com](mailto:dhanusridhar16@gmail.com)
 
@@ -44,7 +44,6 @@ at <strong>Panimalar Institute of Technology</strong> with a CGPA of <strong>8.8
 
 ---
 
-
 ## 👩‍💻 I Code In:
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -56,7 +55,6 @@ at <strong>Panimalar Institute of Technology</strong> with a CGPA of <strong>8.8
 
 ---
 
-
 ## 🧠 Concepts:
 - Software Development Life Cycle (SDLC)  
 - Agile and Scrum Methodologies  
@@ -65,7 +63,6 @@ at <strong>Panimalar Institute of Technology</strong> with a CGPA of <strong>8.8
 - Business Communication & Presentation
 
 ---
-
 
 ## 🛠️ Tools & Technologies:
 ### IDEs
@@ -116,11 +113,14 @@ at <strong>Panimalar Institute of Technology</strong> with a CGPA of <strong>8.8
 
 ---
 
-### 🔹 [Online Retail Sales Analysis](https://github.com/Dhanu1620/Online-Retail-Sales-Analysis)
- **Domain**: Retail Analytics | **Tech Stack**: Power BI, DAX, PowerQuery  
-- Analyzed 2011 online retail data as part of a Tata Group Business Case Simulation.
-- Created KPIs, revenue trends, and customer segmentation dashboards using Power BI.
-- Delivered executive-level insights through interactive visual storytelling for real-world business decision-making.
+### 🔹 [Selenium Automation – Dummy Ticket Booking](https://github.com/Dhanu1620/Selenium-TicketBooking-Automation)
+**Domain**: Web Automation Testing | **Tech Stack**: Java, Selenium WebDriver, ChromeDriver  
+- As an aspiring automation tester, I developed a complete end-to-end automation script for booking a dummy flight ticket on dummyticket.com.
+- The script covers multi-passenger input, DOB/date selectors, delivery modes, and payment form submission.
+- I used Selenium to handle dropdowns, calendars, dynamic inputs, and automated data entry, closely simulating a real user flow.
+- Additionally, I wrote custom test cases to validate key functionalities including form validations, calendar selections, and contact details submission.
+
+> 📺 Watch full demo video: [Screen Recording](./Screen%20Recording%202025-07-15%20004441.mp4)
 
 ---
 
@@ -146,5 +146,6 @@ at <strong>Panimalar Institute of Technology</strong> with a CGPA of <strong>8.8
 ---
 
 > _"Empowering decisions with data, one insight at a time."_
+
 
 
