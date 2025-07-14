@@ -113,7 +113,7 @@ at <strong>Panimalar Institute of Technology</strong> with a CGPA of <strong>8.8
 
 ---
 
-### 🔹 [Selenium Automation – Dummy Ticket Booking](https://github.com/Dhanu1620/Selenium-TicketBooking-Automation)
+### 🔹 [Selenium Automation – Dummy Ticket Booking](https://github.com/Dhanu1620/Dummy_Ticket_Booking_by_Selenium)
 **Domain**: Web Automation Testing | **Tech Stack**: Java, Selenium WebDriver, ChromeDriver  
 - As an aspiring automation tester, I developed a complete end-to-end automation script for booking a dummy flight ticket on dummyticket.com.
 - The script covers multi-passenger input, DOB/date selectors, delivery modes, and payment form submission.
