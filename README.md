@@ -120,8 +120,6 @@ at <strong>Panimalar Institute of Technology</strong> with a CGPA of <strong>8.8
 - I used Selenium to handle dropdowns, calendars, dynamic inputs, and automated data entry, closely simulating a real user flow.
 - Additionally, I wrote custom test cases to validate key functionalities including form validations, calendar selections, and contact details submission.
 
-> 📺 Watch full demo video: [Screen Recording](./Screen%20Recording%202025-07-15%20004441.mp4)
-
 ---
 
 ### 📈 GitHub Stats
